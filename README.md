@@ -1,3 +1,12 @@
+<h1 align="center">PDFmaker<br>
+</h1>
+<img src="PDFmaker.png" alt="Pdfmaker" class="center">
+
+#
+#
+# Download Termux App 
+You can download the latest termux app from here <a href="https://f-droid.org/en/packages/com.termux/">Link</a>
+
 # Installation Process on Termux
 <b>Copy entire this code and paste on termux👇 if ask for any Yes or No then just tap on Enter<b>
 ```shell
@@ -10,7 +19,7 @@ chmod 777 setup.sh
 ```
 # Usage
 ### Step1
-Open termux
+Open termux app
 ### Step2
 pdfm<br>
 (👆type this code in your termux and hit enter for run the tool)
