@@ -21,8 +21,11 @@ chmod 777 setup.sh
 ### Step1
 Open termux app
 ### Step2
-pdfm<br>
+```bash
+pdfm
+```
 (👆type this code in your termux and hit enter for run the tool)
+
 ### Step3
 Enter the files with space: 1.jpg 2.png 3.jpeg 4.txt<br>
 (👆image and txt files are supported)
